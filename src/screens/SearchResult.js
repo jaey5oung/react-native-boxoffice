@@ -38,3 +38,4 @@ export default function SearchResult({route}) {
     />
   );
 }
+//webview 방식 고민
