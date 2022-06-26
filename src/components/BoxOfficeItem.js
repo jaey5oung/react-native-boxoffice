@@ -36,3 +36,4 @@ export default function BoxOfficeItem({data}) {
     </Pressable>
   );
 }
+// tasio프로젝트에 대입할수있는 소스찾기
